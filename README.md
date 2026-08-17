@@ -1,4 +1,4 @@
-#🎓 School AI Copilot
+# 🎓 School AI Copilot
 
 > Learn from your own study materials.
 
